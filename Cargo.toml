@@ -1,0 +1,7 @@
+[package]
+name = "mastermind"
+version = "0.1.0"
+authors = ["Thom May <thom@may.lt>"]
+
+[dependencies]
+rand = "*"
